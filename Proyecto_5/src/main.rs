@@ -1,4 +1,5 @@
 fn main() {
+    //practica: struct
     let legolas = Personaje{vida:50, danio:10, mana:20.7};
 
     println!("Legolas:");
